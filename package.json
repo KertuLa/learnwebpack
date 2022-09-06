@@ -1,0 +1,23 @@
+{
+  "name": "learnwebpack",
+  "version": "1.0.0",
+  "description": "Learn WebPack MM-21",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KertuLa/learnwebpack.git"
+  },
+  "keywords": [],
+  "author": "Kertu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KertuLa/learnwebpack/issues"
+  },
+  "homepage": "https://github.com/KertuLa/learnwebpack#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
